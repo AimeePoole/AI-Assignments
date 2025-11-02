@@ -1,2 +1,6 @@
-# AI-Assignments
-AI S1 and S2
+AI Assignments
+==============
+
+***S1***
+
+The Final Rule-based AI folder has the final S1 AI "educationEst.ipynb"
